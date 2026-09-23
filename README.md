@@ -2,8 +2,6 @@
 
 ## 📌 Descripción
 
-Este proyecto fue desarrollado como Trabajo Práctico Integrador para la materia Organización Empresarial de la Tecnicatura Universitaria en Programación (UTN).
-
 El sistema consiste en un chatbot de soporte técnico de Nivel 1 capaz de asistir a los usuarios en la resolución de incidencias frecuentes mediante respuestas automáticas obtenidas desde una base de datos simulada implementada con archivos CSV.
 
 Cuando el inconveniente no puede resolverse automáticamente, el chatbot registra un ticket y deriva el caso al área de soporte técnico.
