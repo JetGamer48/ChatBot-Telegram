@@ -204,9 +204,4 @@ El proyecto utiliza una base de datos simulada mediante archivos CSV.
 
 # 👨‍💻 Autor
 
-Facundo Gómez
 Ricardo Oliva  
-
-Tecnicatura Universitaria en Programación
-
-Universidad Tecnológica Nacional
